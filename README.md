@@ -7,4 +7,4 @@ and test my modpack. By using the Temurin JDK, the build system Gradle, and Parc
 
 -Added Custom Blocks and Textures with Sound Effects from Minecraft
 
-**Will continue to update this modpack over time as well as this README**
+**Will continue to update the modpack over time including the README**
