@@ -2,6 +2,7 @@ package net.conrad.tutorialmod;
 
 import com.mojang.logging.LogUtils;
 import net.conrad.tutorialmod.block.ModBlocks;
+import net.conrad.tutorialmod.item.ModCreativeModeTabs;
 import net.conrad.tutorialmod.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
@@ -30,6 +31,8 @@ public class TutorialMod {
         modEventBus.addListener(this::commonSetup);
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);
+
+        ModCreativeModeTabs.register(modEventBus);
 
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);

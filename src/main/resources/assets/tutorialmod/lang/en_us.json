@@ -4,5 +4,8 @@
 
   "block.tutorialmod.kielbasa_block": "Kielbasa",
   "block.tutorialmod.usagi_block": "Usagi",
-  "block.tutorialmod.michaeljordan_block": "Michael Jordan"
+  "block.tutorialmod.michaeljordan_block": "Michael Jordan",
+
+  "creativetab.tutorialmod.conrad_items": "Conrad Items",
+  "creativetab.tutorialmod.conrad_blocks": "Conrad Blocks"
 }
