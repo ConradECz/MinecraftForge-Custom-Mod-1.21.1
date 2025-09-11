@@ -3,8 +3,10 @@ and test my modpack. By using the Temurin JDK, the build system Gradle, and Parc
 
 *So far with this modpack I have:*
 
--Added Custom Items and Textures
+-Added Custom Items and Textures (9/9/25)
 
--Added Custom Blocks and Textures with Sound Effects from Minecraft
+-Added Custom Blocks and Textures with Sound Effects from Minecraft (9/9/25)
+
+-Added Custom Creative Mode Tabs to Organize My Items and Blocks from Minecrafts' (9/10/25)
 
 **Will continue to update the modpack over time including the README**
